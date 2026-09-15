@@ -1,0 +1,6 @@
+orgao,classe_majoritaria,balanced_accuracy,f1_macro
+bowel,bowel_healthy,0.5,0.493
+extravasation,extravasation_healthy,0.5,0.471
+kidney,kidney_healthy,0.5,0.471
+liver,liver_healthy,0.5,0.486
+spleen,spleen_healthy,0.333,0.314
