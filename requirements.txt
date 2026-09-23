@@ -1,6 +1,0 @@
-pandas
-numpy
-matplotlib
-pydicom
-scikit-image
-scikit-learn
