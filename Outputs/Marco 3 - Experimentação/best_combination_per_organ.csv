@@ -1,0 +1,6 @@
+orgao,descritor,modelo,balanced_accuracy_cv_mean,balanced_accuracy_cv_std,test_balanced_accuracy,test_f1_macro,test_auc_roc_macro,test_auc_pr_macro,test_sensitivity_mean,test_specificity_mean,melhores_hiperparametros
+bowel,intensidade,SVM,0.679,0.174,0.724,0.344,0.668,0.517,0.724,0.724,"{'svm__C': 0.1, 'svm__kernel': 'linear'}"
+extravasation,forma,XGBoost,0.501,0.037,0.589,0.616,0.55,0.556,0.589,0.589,"{'xgb__max_depth': 3, 'xgb__n_estimators': 100}"
+kidney,combinado,SVM,0.488,0.125,0.78,0.351,0.888,0.43,0.78,0.8,"{'svm__C': 0.1, 'svm__kernel': 'rbf'}"
+liver,intensidade,RandomForest,0.454,0.15,0.456,0.33,0.565,0.39,0.456,0.794,"{'rf__max_depth': 5, 'rf__n_estimators': 100}"
+spleen,textura,SVM,0.386,0.067,0.437,0.244,0.609,0.393,0.437,0.735,"{'svm__C': 0.1, 'svm__kernel': 'linear'}"

@@ -1,0 +1,6 @@
+orgao,modelo,balanced_accuracy,f1_macro,auc_roc_macro,auc_pr_macro,sensitivity_mean,specificity_mean,n_train,n_test
+bowel,LogisticRegression,0.556,0.402,0.638,0.52,0.556,0.556,400,100
+extravasation,LogisticRegression,0.55,0.46,0.499,0.505,0.55,0.55,400,100
+kidney,LogisticRegression,0.696,0.252,0.761,0.39,0.696,0.782,400,100
+liver,LogisticRegression,0.33,0.231,0.492,0.351,0.33,0.679,400,100
+spleen,LogisticRegression,0.25,0.194,0.471,0.353,0.25,0.614,400,100
