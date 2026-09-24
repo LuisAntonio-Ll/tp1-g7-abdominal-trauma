@@ -1,6 +1,0 @@
-orgao,classe_majoritaria,balanced_accuracy_baseline,f1_macro_baseline,auc_roc_macro_baseline,auc_pr_macro_baseline,sensitivity_mean_baseline,specificity_mean_baseline,modelo,balanced_accuracy_logreg,f1_macro_logreg,auc_roc_macro_logreg,auc_pr_macro_logreg,sensitivity_mean_logreg,specificity_mean_logreg,n_train,n_test
-bowel,bowel_healthy,0.5,0.493,0.5,0.5,0.5,0.5,LogisticRegression,0.857,0.5,0.943,0.666,0.857,0.857,144,36
-extravasation,extravasation_healthy,0.5,0.471,0.5,0.5,0.5,0.5,LogisticRegression,0.562,0.481,0.664,0.604,0.562,0.562,144,36
-kidney,kidney_healthy,0.5,0.471,,0.333,0.5,0.667,LogisticRegression,0.828,0.431,,0.542,0.828,0.889,144,36
-liver,liver_healthy,0.5,0.486,,0.333,0.5,0.667,LogisticRegression,0.75,0.292,,0.369,0.75,0.834,144,36
-spleen,spleen_healthy,0.333,0.314,0.5,0.333,0.333,0.667,LogisticRegression,0.358,0.272,0.441,0.355,0.358,0.72,144,36
