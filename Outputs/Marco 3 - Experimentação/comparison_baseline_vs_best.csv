@@ -1,0 +1,6 @@
+orgao,baseline_trivial_bal_acc,logreg_intensidade_bal_acc (Semana 2),melhor_combo_descritor_modelo,melhor_combo_cv_mean,melhor_combo_cv_std,melhor_combo_test_bal_acc
+bowel,0.5,0.556,combinado + SVM,0.733,0.135,0.352
+extravasation,0.5,0.55,intensidade + SVM,0.599,0.093,0.478
+kidney,0.333,0.696,combinado + SVM,0.488,0.125,0.78
+liver,0.333,0.33,textura + SVM,0.459,0.134,0.356
+spleen,0.333,0.25,intensidade + SVM,0.478,0.079,0.186

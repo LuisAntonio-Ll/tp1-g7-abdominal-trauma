@@ -1,0 +1,6 @@
+orgao,classe_majoritaria,balanced_accuracy,f1_macro,auc_roc_macro,auc_pr_macro,sensitivity_mean,specificity_mean
+bowel,bowel_healthy,0.5,0.495,0.5,0.5,0.5,0.5
+extravasation,extravasation_healthy,0.5,0.474,0.5,0.5,0.5,0.5
+kidney,kidney_healthy,0.333,0.325,0.5,0.333,0.333,0.667
+liver,liver_healthy,0.333,0.316,0.5,0.333,0.333,0.667
+spleen,spleen_healthy,0.333,0.31,0.5,0.333,0.333,0.667
