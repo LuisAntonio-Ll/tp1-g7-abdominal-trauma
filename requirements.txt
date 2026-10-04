@@ -1,8 +1,0 @@
-pandas
-numpy
-scipy
-matplotlib
-pydicom
-scikit-image
-scikit-learn
-xgboost
